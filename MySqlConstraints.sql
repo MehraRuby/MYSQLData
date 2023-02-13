@@ -1,6 +1,5 @@
 -- constraints
 -- not null
--- null
 -- index
 -- default
 -- primary key

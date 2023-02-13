@@ -7,4 +7,9 @@ select * from customer;
 update customer set avail_balance = 25000 where acc_no=1111;
 
 update customer set avail_balance = avail_balance/2; 
+
+
+-- operators
+update employees set jobTitle = 'Sales Manager (NA)' where lastName like 'T%n';
   
+select * from employees;
